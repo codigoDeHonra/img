@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/wouerner/cdh.svg.png"
+   inkscape:export-xdpi="201.50581"
+   inkscape:export-ydpi="201.50581">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="138.21217"
+     inkscape:cy="71.306627"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1918"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="66"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-247)">
+    <g
+       id="g1465">
+      <g
+         transform="translate(-55.714952,198.69222)"
+         id="g856">
+        <rect
+           style="fill:#000001;fill-opacity:1;stroke:#000000;stroke-width:0.31954673;stroke-opacity:1"
+           id="rect10"
+           width="49.68045"
+           height="49.680454"
+           x="55.886814"
+           y="48.443531"
+           ry="3.0830066"
+           inkscape:export-filename="/home/wouerner/text849.png"
+           inkscape:export-xdpi="203.2"
+           inkscape:export-ydpi="203.2" />
+        <ellipse
+           style="fill:#41f0ad;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           id="path841"
+           cx="59.968597"
+           cy="51.369221"
+           rx="1.6370258"
+           ry="1.6704345"
+           inkscape:export-filename="/home/wouerner/text849.png"
+           inkscape:export-xdpi="203.2"
+           inkscape:export-ydpi="203.2" />
+        <ellipse
+           ry="1.6704345"
+           rx="1.6370258"
+           cy="51.369221"
+           cx="63.672768"
+           id="ellipse843"
+           style="fill:#41f0ad;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+           inkscape:export-filename="/home/wouerner/text849.png"
+           inkscape:export-xdpi="203.2"
+           inkscape:export-ydpi="203.2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9.79181194px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#41f0ad;fill-opacity:1;stroke:none;stroke-width:0.24479529"
+           x="60.501286"
+           y="75.829628"
+           id="text849"
+           inkscape:export-filename="/home/wouerner/text849.png"
+           inkscape:export-xdpi="203.2"
+           inkscape:export-ydpi="203.2"><tspan
+             sodipodi:role="line"
+             id="tspan847"
+             x="60.501286"
+             y="75.829628"
+             style="fill:#41f0ad;fill-opacity:1;stroke-width:0.24479529">#&gt; <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan861">php</tspan> _</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="85.895088"
+       y="78.529755"
+       id="text859"><tspan
+         sodipodi:role="line"
+         id="tspan857"
+         x="85.895088"
+         y="88.159264"
+         style="stroke-width:0.26458332" /></text>
+  </g>
+</svg>
